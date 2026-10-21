@@ -89,7 +89,7 @@
 | [**store_app**](https://github.com/KimThanhTran/store_app) | Flutter shoe-store app with admin dashboard, Node/Express + MongoDB API, VietQR payments and order tracking. |
 | [**Deepfake-Detect**](https://github.com/KimThanhTran/Deepfake-Detect) | Deepfake image detection with an improved NPR CNN: AdaptiveNPR, spatial-frequency hybrid, Gradio demo and Docker. |
 | [**Deepfake-Detect-baseline**](https://github.com/KimThanhTran/Deepfake-Detect-baseline) | Baseline vs NPR vs hybrid spatial-frequency models, with evaluation, Grad-CAM and reporting tools. |
-| [**GearGuard**](https://github.com/KimThanhTran/GearGuard) | In-browser webcam safety-gear detector (TensorFlow.js MobileNet + KNN) with sound and notification alerts. |
+| [**gearguard-ppe-monitor**](https://github.com/KimThanhTran/gearguard-ppe-monitor) | In-browser PPE monitor: webcam safety-gear detection (TensorFlow.js MobileNet + KNN) with sound and notification alerts, saved training data, tests and CI. |
 | [**graduation-invitation-card**](https://github.com/KimThanhTran/graduation-invitation-card) | Digital graduation invitation with live countdown and an RSVP form backed by Google Sheets. |
 | [**j2ee-todo-springboot**](https://github.com/KimThanhTran/j2ee-todo-springboot) | COS141 Java Spring Boot coursework, including the Jolliebee issue-tracker final project. |
 
