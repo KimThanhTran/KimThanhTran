@@ -54,6 +54,7 @@
 
 **AI / Data**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-Deepfake_Detection-7B2FF7?style=for-the-badge)
 
@@ -75,11 +76,22 @@
 | Project | Description | Tech |
 | :-- | :-- | :-- |
 | 🛒 **AI-integrated E-commerce** <br/> *2025 – present* | Online store with an AI engine that recommends products based on user behavior, improving the customer experience and sales efficiency. | `React` `Node.js` `Python` `AI` |
-| 🕵️ **Deepfake Detection** <br/> *Scientific research* | CNN-based deepfake detection model, with a full train → test → evaluate pipeline measured by Accuracy, AUC and FPR. | `Python` `TensorFlow` `CNN` |
+| 🕵️ **Deepfake Detection** <br/> *Scientific research* | CNN-based deepfake detection model, with a full train → test → evaluate pipeline measured by Accuracy, AUC and FPR. → [`Deepfake-Detect`](https://github.com/KimThanhTran/Deepfake-Detect), [`Deepfake-Detect-baseline`](https://github.com/KimThanhTran/Deepfake-Detect-baseline) | `Python` `PyTorch` `CNN` |
 | 📸 **Booking Studio Web** | Photo-studio booking website with a UI/UX focus, online payment and schedule management. | `Web` `UI/UX` |
 | 💰 **Payroll System** | Payroll system built with .NET and ABP that automates salary calculation for collaborators, staff and lecturers. | `.NET` `ABP` |
 
-> 👉 Check my pinned repositories for the source code.
+> The e-commerce, Booking Studio and Payroll projects are not published on GitHub yet; the source of the other work is in the repositories below.
+
+### ⭐ Featured repositories
+
+| Repository | What it is |
+| :-- | :-- |
+| [**store_app**](https://github.com/KimThanhTran/store_app) | Flutter shoe-store app with admin dashboard, Node/Express + MongoDB API, VietQR payments and order tracking. |
+| [**Deepfake-Detect**](https://github.com/KimThanhTran/Deepfake-Detect) | Deepfake image detection with an improved NPR CNN: AdaptiveNPR, spatial-frequency hybrid, Gradio demo and Docker. |
+| [**Deepfake-Detect-baseline**](https://github.com/KimThanhTran/Deepfake-Detect-baseline) | Baseline vs NPR vs hybrid spatial-frequency models, with evaluation, Grad-CAM and reporting tools. |
+| [**GearGuard**](https://github.com/KimThanhTran/GearGuard) | In-browser webcam safety-gear detector (TensorFlow.js MobileNet + KNN) with sound and notification alerts. |
+| [**graduation-invitation-card**](https://github.com/KimThanhTran/graduation-invitation-card) | Digital graduation invitation with live countdown and an RSVP form backed by Google Sheets. |
+| [**j2ee-todo-springboot**](https://github.com/KimThanhTran/j2ee-todo-springboot) | COS141 Java Spring Boot coursework, including the Jolliebee issue-tracker final project. |
 
 ---
 
@@ -106,10 +118,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KimThanhTran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimThanhTran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KimThanhTran&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KimThanhTran&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimThanhTran&layout=compact&langs_count=6&exclude_repo=TOOL&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
 
 </div>
 
