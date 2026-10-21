@@ -9,7 +9,6 @@
 <br/>
 
 <a href="mailto:trankimthanh230@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=KimThanhTran&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile views" />
 
 </div>
 
