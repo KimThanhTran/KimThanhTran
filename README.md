@@ -75,18 +75,18 @@
 
 | Project | Description | Tech |
 | :-- | :-- | :-- |
-| 🛒 **AI-integrated E-commerce** <br/> *2025 – present* | Product recommendation engine for an online store: item-based collaborative filtering, content-based and hybrid models, evaluated offline against a popularity baseline and served through a FastAPI REST API. → [`ai-recommender-shop`](https://github.com/KimThanhTran/ai-recommender-shop) | `Python` `FastAPI` `scikit-learn` `Docker` |
+| 🛒 **AI-integrated E-commerce** <br/> *2025 – present* | Product recommendation engine for an online store: item-based collaborative filtering, content-based and hybrid models, evaluated offline against a popularity baseline, served through a FastAPI REST API and browsable in a React interface. → [`ai-recommender-shop`](https://github.com/KimThanhTran/ai-recommender-shop) | `Python` `FastAPI` `React` `scikit-learn` `Docker` |
 | 🕵️ **Deepfake Detection** <br/> *Scientific research* | CNN-based deepfake detection model, with a full train → test → evaluate pipeline measured by Accuracy, AUC and FPR. → [`Deepfake-Detect`](https://github.com/KimThanhTran/Deepfake-Detect), [`Deepfake-Detect-baseline`](https://github.com/KimThanhTran/Deepfake-Detect-baseline) | `Python` `PyTorch` `CNN` |
 | 📸 **Booking Studio Web** | Photo-studio booking website with a UI/UX focus, online payment and schedule management. | `Web` `UI/UX` |
 | 💰 **Payroll System** | Payroll system built with .NET and ABP that automates salary calculation for collaborators, staff and lecturers. | `.NET` `ABP` |
 
-> The e-commerce storefront (React UI), Booking Studio and Payroll projects are not published on GitHub yet; the recommendation engine behind the e-commerce project is public. The source of the other work is in the repositories below.
+> The Booking Studio and Payroll projects are not published on GitHub yet. The recommendation engine and its React interface for the e-commerce project are public; the source of the other work is in the repositories below.
 
 ### ⭐ Featured repositories
 
 | Repository | What it is |
 | :-- | :-- |
-| [**ai-recommender-shop**](https://github.com/KimThanhTran/ai-recommender-shop) | Product recommender: item-based CF, content-based and hybrid models with offline evaluation and a FastAPI service. |
+| [**ai-recommender-shop**](https://github.com/KimThanhTran/ai-recommender-shop) | Product recommender: item-based CF, content-based and hybrid models with offline evaluation, a FastAPI service and a React interface. |
 | [**store_app**](https://github.com/KimThanhTran/store_app) | Flutter shoe-store app with admin dashboard, Node/Express + MongoDB API, VietQR payments and order tracking. |
 | [**Deepfake-Detect**](https://github.com/KimThanhTran/Deepfake-Detect) | Deepfake image detection with an improved NPR CNN: AdaptiveNPR, spatial-frequency hybrid, Gradio demo and Docker. |
 | [**Deepfake-Detect-baseline**](https://github.com/KimThanhTran/Deepfake-Detect-baseline) | Baseline vs NPR vs hybrid spatial-frequency models, with evaluation, Grad-CAM and reporting tools. |
