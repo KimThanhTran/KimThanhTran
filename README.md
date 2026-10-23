@@ -118,7 +118,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KimThanhTran&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KimThanhTran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimThanhTran&layout=compact&langs_count=6&exclude_repo=TOOL&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
 
 </div>
