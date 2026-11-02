@@ -76,7 +76,7 @@
 | Project | Description | Tech |
 | :-- | :-- | :-- |
 | 🛒 **AI-integrated E-commerce** <br/> *2025 – present* | Product recommendation engine for an online store: item-based collaborative filtering, content-based and hybrid models, evaluated offline against a popularity baseline, served through a FastAPI REST API and browsable in a React interface. → [`ai-recommender-shop`](https://github.com/KimThanhTran/ai-recommender-shop) | `Python` `FastAPI` `React` `scikit-learn` `Docker` |
-| 🎫 **Helpdesk (ABP Framework)** <br/> *2026* | Support-desk REST API: ticket life cycle, roles, business-hours SLA and a signed Google Sheets export; 319 .NET tests, a PostgreSQL concurrency test and an end-to-end check in CI. → [`helpdesk-abp`](https://github.com/KimThanhTran/helpdesk-abp) | `.NET` `ABP` `PostgreSQL` `Docker` |
+| 🎫 **Helpdesk (ABP Framework)** <br/> *2026* | Support desk with a REST API, React UI and Flutter app: ticket life cycle, roles, business-hours SLA that pauses while waiting, live SignalR notifications, keyword-based triage suggestions and a signed Google Sheets export; 380+ .NET tests plus web, Flutter and end-to-end checks in CI. → [`helpdesk-abp`](https://github.com/KimThanhTran/helpdesk-abp) | `.NET` `ABP` `PostgreSQL` `React` `Flutter` `Docker` |
 | 🕵️ **Deepfake Detection** <br/> *Scientific research* | CNN-based deepfake detection model, with a full train → test → evaluate pipeline measured by Accuracy, AUC and FPR. → [`Deepfake-Detect`](https://github.com/KimThanhTran/Deepfake-Detect), [`Deepfake-Detect-baseline`](https://github.com/KimThanhTran/Deepfake-Detect-baseline) | `Python` `PyTorch` `CNN` |
 | 📸 **Booking Studio Web** | Photo-studio booking website with a UI/UX focus, online payment and schedule management. | `Web` `UI/UX` |
 | 💰 **Payroll System** | Payroll system built with .NET and ABP that automates salary calculation for collaborators, staff and lecturers. | `.NET` `ABP` |
@@ -88,7 +88,7 @@
 | Repository | What it is |
 | :-- | :-- |
 | [**ai-recommender-shop**](https://github.com/KimThanhTran/ai-recommender-shop) | Product recommender: item-based CF, content-based and hybrid models with offline evaluation, a FastAPI service and a React interface. |
-| [**helpdesk-abp**](https://github.com/KimThanhTran/helpdesk-abp) | Support desk on ABP Framework and PostgreSQL: ticket workflow, role-based access, business-hours SLA, Google Sheets export. |
+| [**helpdesk-abp**](https://github.com/KimThanhTran/helpdesk-abp) | Support desk on ABP Framework and PostgreSQL with React and Flutter clients: ticket workflow, role-based access, business-hours SLA, live notifications, triage suggestions, Google Sheets export. |
 | [**store_app**](https://github.com/KimThanhTran/store_app) | Flutter shoe-store app with admin dashboard, Node/Express + MongoDB API, VietQR payments and order tracking. |
 | [**Deepfake-Detect**](https://github.com/KimThanhTran/Deepfake-Detect) | Deepfake image detection with an improved NPR CNN: AdaptiveNPR, spatial-frequency hybrid, Gradio demo and Docker. |
 | [**gearguard-ppe-monitor**](https://github.com/KimThanhTran/gearguard-ppe-monitor) | In-browser PPE monitor: webcam safety-gear detection (TensorFlow.js MobileNet + KNN) with sound and notification alerts, saved training data, tests and CI. |
