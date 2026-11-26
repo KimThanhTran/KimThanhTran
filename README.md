@@ -41,7 +41,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_%2F_ABP-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_ABP-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&cacheSeconds=86400)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -56,7 +56,7 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-Deepfake_Detection-7B2FF7?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-Deepfake_Detection-7B2FF7?style=for-the-badge&logo=pytorch&logoColor=white&cacheSeconds=86400)
 
 **Other languages & tools**
 
