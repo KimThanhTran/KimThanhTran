@@ -88,6 +88,7 @@
 | Repository | What it is |
 | :-- | :-- |
 | [**ai-recommender-shop**](https://github.com/KimThanhTran/ai-recommender-shop) | Product recommender: item-based CF, content-based and hybrid models with offline evaluation, a FastAPI service and a React interface. |
+| [**mini-soc**](https://github.com/KimThanhTran/mini-soc) | Small SOC in one `docker compose up`: Sigma-style detection rules mapped to MITRE ATT&CK, signed log ingestion, decoy SSH and web honeypots, incident handling with playbooks, an IsolationForest anomaly detector with an honest precision/recall evaluation, and a React dashboard. |
 | [**helpdesk-abp**](https://github.com/KimThanhTran/helpdesk-abp) | Support desk on ABP Framework and PostgreSQL with React and Flutter clients: ticket workflow, role-based access, business-hours SLA, live notifications, triage suggestions, image attachments, Excel and Google Sheets export. |
 | [**store_app**](https://github.com/KimThanhTran/store_app) | Flutter shoe-store app with admin dashboard, Node/Express + MongoDB API, VietQR payments and order tracking. |
 | [**Deepfake-Detect**](https://github.com/KimThanhTran/Deepfake-Detect) | Deepfake image detection with an improved NPR CNN: AdaptiveNPR, spatial-frequency hybrid, Gradio demo and Docker. |
